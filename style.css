@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+body {
+    color: black;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+#header #navbar {
+    background-color: #f7f8fa;
+    padding: 30px 0 30px;
+}
+#header #navbar .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#header #navbar .container .logo{
+}
+#header #navbar .container .logo img{
+    margin-left: 100px;
+}
+#header #navbar .container .menu{
+}
+#header #navbar .container .menu .content{
+}
+#header #navbar .container .list{
+    
+}
